@@ -83,7 +83,7 @@ module black_box(
     input b,
     input c,
     output y,
-    output z
+    output z,
     );
     
 // Internal Signals
