@@ -11,6 +11,8 @@ You can also include images in this folder and reference them in the markdown. E
 
 A 4-bit array multiplier is a combinational circuit that multiplies two 4-bit binary numbers using AND gates and full adders. Each bit of one number is multiplied by each bit of the other to create partial products. These products are aligned in a grid, with each row shifted one position to the left, like multiplication. These partial products are then added together using half-adders and full adders. Each takes three inputs and creates a sum resulting in an 8-bit binary number. 
 
+![Blank diagram](https://github.com/user-attachments/assets/e9c46d3b-8a87-425b-b9e0-caf749219c89)
+Figure #1 4x4 Mutipler Array
 
 ## How to test
 
@@ -18,3 +20,4 @@ In order to test the product, two binary inputs need to be inputted into the cod
 
 ## External hardware
 N/A
+
